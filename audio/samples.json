@@ -1,3 +1,4 @@
 [ 
-  { "url":"01.wav","type":"audio","bank":"junior","n":0} 
+  { "url":"01.wav","type":"audio","bank":"junior","n":0},
+  { "url":"serv_3.wav","type":"audio","bank":"server_drone","n":0}
 ]
